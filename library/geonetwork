@@ -1,7 +1,7 @@
-# this file is generated via https://github.com/doublebyte1/geonetwork/blob/non-official/53989b76930e92120f38110069bb9c8f284988e8/generate-stackbrew-library.sh
+# this file is generated via https://github.com/doublebyte1/geonetwork/blob/53989b76930e92120f38110069bb9c8f284988e8/generate-stackbrew-library.sh
 
 Maintainers: Joana Simoes <joana.simoes@geocat.net> (@doublebyte1)
-GitRepo: https://github.com/doublebyte1/geonetwork/non-official/
+GitRepo: https://github.com/doublebyte1/geonetwork/
 
 Tags: 3.0.4
 GitCommit: a320f026e9ac1d00d4e5c53d7ccb5f1dd008db97
